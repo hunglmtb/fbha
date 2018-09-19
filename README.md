@@ -7,7 +7,7 @@ You should see our full Privacy Statement
 * payments will be processed through the Google Play or iTunes app store from which you originally downloaded the application
 
 Privacy Policy
-Hunglm built the Pyno app as an Ad Supported app. This SERVICE is provided by Hunglm at no cost and is intended for use as is.
+Hunglm built the Pyno app as an Ad Supported app. This SERVICE is provided by Hunglm at no cost and is intended for use as is. There are some in-app purchase items in app are available in commercial.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
